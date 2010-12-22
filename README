@@ -1,0 +1,19 @@
+= mongoid_admin
+
+mongoid_admin is a Rails gem for Mongoid, it allows you to manage your data very easily.
+
+mongoid_admin will automatically detect your models and generate a web interface with the following features :
+
+- CRUD operations (create-read-update-delete);
+- Master-details for :many associations;
+- Sorting;
+- Pagination;
+- Search.
+
+= Credits
+
+mongoid_admin is a fork of mongo_admin (https://github.com/ahe/mongo_admin) by Anthony Heukmes.
+
+= Support
+Email: rodrigolazoti@gmail.com
+Twitter: @rodrigolazoti
